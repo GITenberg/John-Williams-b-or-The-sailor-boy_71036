@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '32151'
     url: http://www.gutenberg.org/2009/agents/32151
     wikipedia: https://en.wikipedia.org/wiki/Alonzo_Hartwell
+covers:
+- cover_type: archival
+  image_path: 71036-h/images/backcover.jpg
 creator:
   author:
     agent_name: Dix, Dorothea Lynde
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56049
     wikipedia: https://en.wikipedia.org/wiki/Dorothea_Dix
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71036#John-Williams-b-or-The-sailor-boy
 gutenberg_issued: '2023-06-24'
 identifiers:
   gutenberg: '71036'
